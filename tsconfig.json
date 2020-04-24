@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2017.SharedMemory", "WebWorker", "ES2015"],
+        "target": "ESNext"
+        // don't specify outDir because it breaks rollup typescript plugin
+    },
+    "include": [
+        "src/**/*"
+    ]
+}

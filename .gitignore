@@ -1,0 +1,5 @@
+# compiled files/build output
+dist/
+
+# dependencies
+node_modules/
