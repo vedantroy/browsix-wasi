@@ -1,0 +1,13 @@
+
+{
+    "compilerOptions": {
+        "lib": ["ES2017.SharedMemory", "WebWorker", "ESNext", "ESNext.BigInt"],
+        "target": "ES5",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "src/**/*",
+    ]
+}
